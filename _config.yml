@@ -20,9 +20,9 @@
 
 title:            'TheInfluenceofArt'
 description:      'The Influence of Art'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+url:              'https://rj433.github.io'
+baseurl:          '/TheInfluenceofArt'
+copyright:        'to be updated'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -132,11 +132,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/rj433/TheInfluenceofArt.git'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:rjanoski@iu.edu'
   logos:
     - img: '/img/logo.png'
 
