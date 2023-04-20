@@ -4,8 +4,8 @@ show_title: true
 banner:
   collection: ARTatIU
   pid: obj8
-  y: 10%
-  height: '600px'
+  y: 5%
+  height: '800px'
 ---
 The collection items in this demo are from ...
 
