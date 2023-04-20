@@ -3,7 +3,7 @@ layout: page
 show_title: true
 banner:
   collection: ARTatIU
-  pid: obj10
+  pid: obj8
   y: 35%
   height: '600px'
 ---
