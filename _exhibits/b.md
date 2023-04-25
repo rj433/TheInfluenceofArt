@@ -12,7 +12,7 @@ Statues and objects bring life to the images that they are depicting, making the
 
 Someone visiting IU campus can find many historical figures depicted by statues as they explore the came, immersing them in campus history and culture. This quickly makes them feel like a part of the IU community.
 
-![obj8](https://user-images.githubusercontent.com/77714306/234279878-86f266dd-f221-483f-8558-47827ea9632b.JPG = 250x250)
-![obj9](https://user-images.githubusercontent.com/77714306/234279883-a1ab6173-bfc0-4a2e-b988-3905008b3336.JPG = 250x250)
-![obj10](https://user-images.githubusercontent.com/77714306/234279886-7c1e74c5-8718-4d4c-94a4-49451e863a3d.PNG = 250x250)
-![obj11](https://user-images.githubusercontent.com/77714306/234279891-8bf5a8ab-c7a8-46c6-b6ad-0505bdff4a97.jpg = 250x250)
+![obj11](https://user-images.githubusercontent.com/77714306/234280440-924a3884-a2a7-427b-a030-eb835729d36a.jpg)
+![obj8](https://user-images.githubusercontent.com/77714306/234280448-7a5db937-e52c-48b4-8d40-628d967db9ab.JPG)
+![obj9](https://user-images.githubusercontent.com/77714306/234280452-bab0cd68-bfb3-4bc5-8e32-d846ed45befd.JPG)
+![obj10](https://user-images.githubusercontent.com/77714306/234280454-1ea6ec32-ce0c-4126-b1d8-b3e9c0c05d34.PNG)
