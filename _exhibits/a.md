@@ -19,7 +19,6 @@ It is absolutely vital that students on a college campus are surrounded by piece
 ![obj5](https://user-images.githubusercontent.com/77714306/234278592-f61616af-a0aa-4a5f-8837-dec1cca74a71.jpg)
 ![obj6](https://user-images.githubusercontent.com/77714306/234278600-28c4e6e8-1efd-4ac0-90f5-e08efff41b20.jpg)
 ![obj7](https://user-images.githubusercontent.com/77714306/234278606-fbc898c8-cc02-4e82-817b-dc78a3a0a2d1.jpg)
-![obj11](https://user-images.githubusercontent.com/77714306/234278608-f634ffe4-9f27-4293-a694-8d6ff8431db1.jpg)
 ![obj12](https://user-images.githubusercontent.com/77714306/234278609-9d57c418-439c-4c73-b8df-62695f039640.jpg)
 ![obj13](https://user-images.githubusercontent.com/77714306/234278616-2d97e917-62d7-4195-8e75-9cb6c5f19626.jpg)
 ![obj14](https://user-images.githubusercontent.com/77714306/234278621-daa6c91f-541c-47a1-af94-c31c57ef27c6.jpg)
